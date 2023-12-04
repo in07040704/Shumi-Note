@@ -21,9 +21,7 @@ poetry install
 
 （こんな感じで日付と書いたNotebookをメモしていきましょう）
 
-1. (2023/1/30) テイラーの定理: [notebooks/MATH_taylor_theorem.ipynb](notebooks/MATH_taylor_theorem.ipynb)
-2. (2023/4/01) 最小楕円問題：[notebooks/CVX_minimum_volume_ellipsoids.ipynb](notebooks/CVX_minimum_volume_ellipsoids.ipynb)
-3. ...
+1. (2023/12/04) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 ---
 
@@ -31,11 +29,6 @@ poetry install
 
 （書いたNotebookをざっくりジャンル分けすると後で便利です）
 
-### 凸最適化
-* (2023/4/01) 最小楕円問題：[notebooks/CVX_minimum_volume_ellipsoids.ipynb](notebooks/CVX_minimum_volume_ellipsoids.ipynb)
-* ...
-
 
 ### 数学
-* (2023/1/30) テイラーの定理: [notebooks/MATH_taylor_theorem.ipynb](notebooks/MATH_taylor_theorem.ipynb)
-* ...
+* (2023/12/04) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
