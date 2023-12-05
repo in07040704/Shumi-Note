@@ -21,7 +21,9 @@ poetry install
 
 （こんな感じで日付と書いたNotebookをメモしていきましょう）
 
-1. (2023/12/04) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+1. (2023/12/04) 順列組み合わせ：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+2. (2023/12/05) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 ---
 
@@ -31,4 +33,6 @@ poetry install
 
 
 ### 数学
-* (2023/12/04) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+* (2023/12/04) 順列組み合わせ：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+* (2023/12/05) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
