@@ -27,6 +27,7 @@ poetry install
 
 3. (2023/12/06) 集合と写像：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
+4. (2023/12/07) 等差数列・等比数列・シグマ計算：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 ---
 
 ## 分野別のNotebook一覧
@@ -40,3 +41,5 @@ poetry install
 * (2023/12/05) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 * (2023/12/06) 集合と写像：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+* (2023/12/07) 等差数列・等比数列・シグマ計算：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
