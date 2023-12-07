@@ -25,6 +25,8 @@ poetry install
 
 2. (2023/12/05) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
+3. (2023/12/06) 集合と写像：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
 ---
 
 ## 分野別のNotebook一覧
@@ -36,3 +38,5 @@ poetry install
 * (2023/12/04) 順列組み合わせ：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 * (2023/12/05) 重複順列：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+* (2023/12/06) 集合と写像：[notebooks/MATH_juhuku_junretsu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
