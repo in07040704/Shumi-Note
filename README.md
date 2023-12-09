@@ -30,6 +30,8 @@ poetry install
 4. (2023/12/07) 等差数列・等比数列・シグマ計算：[notebooks/MATH_tousasuuretu_touhisuuretu_sigma.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 5. (2023/12/08) 階差数列・Telescoping：[notebooks/MATH_kaisa_suuretu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+6. (2023/12/09) 二項定理・二項展開：[notebooks/MATH_nikouteiri_nikoutennkai.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 ---
 
 ## 分野別のNotebook一覧
@@ -47,3 +49,5 @@ poetry install
 * (2023/12/07) 等差数列・等比数列・シグマ計算：[notebooks/MATH_tousasuuretu_touhisuuretu_sigma.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
 
 * (2023/12/08) 階差数列・Telescoping：[notebooks/MATH_kaisa_suuretu.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
+
+* (2023/12/09) 二項定理・二項展開：[notebooks/MATH_nikouteiri_nikoutennkai.ipynb](notebooks/MATH_juhuku_junretsu.ipynb)
