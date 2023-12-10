@@ -33,7 +33,7 @@ poetry install
 
 6. (2023/12/09) 二項定理・二項展開：[notebooks/MATH_nikouteiri_nikoutennkai.ipynb](notebooks/MATH_nikouteiri_nikoutennkai.ipynb)
 
-7 (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
+7. (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
 ---
 
 ## 分野別のNotebook一覧
