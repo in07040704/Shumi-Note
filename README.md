@@ -34,6 +34,8 @@ poetry install
 6. (2023/12/09) 二項定理・二項展開：[notebooks/MATH_nikouteiri_nikoutennkai.ipynb](notebooks/MATH_nikouteiri_nikoutennkai.ipynb)
 
 7. (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
+
+8. (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
 ---
 
 ## 分野別のNotebook一覧
@@ -55,3 +57,5 @@ poetry install
 * (2023/12/09) 二項定理・二項展開：[notebooks/MATH_nikouteiri_nikoutennkai.ipynb](notebooks/MATH_nikouteiri_nikoutennkai.ipynb)
 
 * (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
+
+* (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
