@@ -36,6 +36,8 @@ poetry install
 7. (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
 
 8. (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
+
+8. (2023/12/12) 確率と漸化式：[notebooks/MATH_kakurituto_zennkasiki.ipynb](notebooks/MATH_kakurituto_zennkasiki.ipynb)
 ---
 
 ## 分野別のNotebook一覧
@@ -59,3 +61,5 @@ poetry install
 * (2023/12/10) ガリレオのサイコロ，ド・メレの問題：[notebooks/MATH_garireono_saikoro.ipynb](notebooks/MATH_garireono_saikoro.ipynb)
 
 * (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
+
+* (2023/12/12) 確率と漸化式：[notebooks/MATH_kakurituto_zennkasiki.ipynb](notebooks/MATH_kakurituto_zennkasiki.ipynb)
