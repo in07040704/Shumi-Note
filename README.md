@@ -19,7 +19,7 @@ poetry install
 
 ## 日付順のNotebook一覧
 
-（こんな感じで日付と書いたNotebookをメモしていきましょう）
+
 
 1. (2023/12/04) 順列組み合わせ：[notebooks/MATH_jyunnretu_kumiawase.ipynb](notebooks/MATH_jyunnretu_kumiawase.ipynb)
 
@@ -38,11 +38,13 @@ poetry install
 8. (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
 
 8. (2023/12/12) 確率と漸化式：[notebooks/MATH_kakurituto_zennkasiki.ipynb](notebooks/MATH_kakurituto_zennkasiki.ipynb)
+
+9. (2023/12/13) じゃんけんの問題：[notebooks/MATH_jyannkennno_monndai.ipynb](notebooks/MATH_jyannkennno_monndai.ipynb)
 ---
 
 ## 分野別のNotebook一覧
 
-（書いたNotebookをざっくりジャンル分けすると後で便利です）
+
 
 
 ### 数学
@@ -63,3 +65,5 @@ poetry install
 * (2023/12/11) 確率のやさしい問題：[notebooks/MATH_kakuritu_easymondai.ipynb](notebooks/MATH_kakuritu_easymondai.ipynb)
 
 * (2023/12/12) 確率と漸化式：[notebooks/MATH_kakurituto_zennkasiki.ipynb](notebooks/MATH_kakurituto_zennkasiki.ipynb)
+
+* (2023/12/13) じゃんけんの問題：[notebooks/MATH_jyannkennno_monndai.ipynb](notebooks/MATH_jyannkennno_monndai.ipynb)
