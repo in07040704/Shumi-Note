@@ -45,6 +45,7 @@ poetry install
 
 12. (2023/12/15) 標本空間・事象・確率：[notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb](notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb)
 
+13. (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
 ---
 
 ## 分野別のNotebook一覧
@@ -76,3 +77,5 @@ poetry install
 * (2023/12/14) 東郷平八郎の訓示，誕生日の問題：[notebooks/MATH_tougouheihaturou_tannjyoubi_monndai.ipynb](notebooks/MATH_tougouheihaturou_tannjyoubi_monndai.ipynb)
 
 * (2023/12/15) 標本空間・事象・確率：[notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb](notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb)
+
+* (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
