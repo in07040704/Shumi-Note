@@ -51,6 +51,8 @@ poetry install
 
 15. (2023/12/18) 期待値の計算：[notebooks/kitaichino_keisann.ipynb](notebooks/kitaichino_keisann.ipynb)
 
+16. (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
+
 ---
 
 ## 分野別のNotebook一覧
@@ -88,3 +90,5 @@ poetry install
 * (2023/12/17) 確率変数と確率分布，その期待値：[notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb](notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb)
 
 * (2023/12/18) 期待値の計算：[notebooks/kitaichino_keisann.ipynb](notebooks/kitaichino_keisann.ipynb)
+
+* (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
