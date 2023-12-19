@@ -45,11 +45,11 @@ poetry install
 
 12. (2023/12/15) 標本空間・事象・確率：[notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb](notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb)
 
-13. (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
+13. (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/MATH_jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/MATH_jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
 
-14. (2023/12/17) 確率変数と確率分布，その期待値：[notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb](notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb)
+14. (2023/12/17) 確率変数と確率分布，その期待値：[notebooks/MATH_kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb](notebooks/MATH_kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb)
 
-15. (2023/12/18) 期待値の計算：[notebooks/kitaichino_keisann.ipynb](notebooks/kitaichino_keisann.ipynb)
+15. (2023/12/18) 期待値の計算：[notebooks/MATH_kitaichino_keisann.ipynb](notebooks/MATH_kitaichino_keisann.ipynb)
 
 16. (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
 
@@ -85,10 +85,10 @@ poetry install
 
 * (2023/12/15) 標本空間・事象・確率：[notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb](notebooks/MATH_hyouhonnkuukann_jisyou_kakuritu.ipynb)
 
-* (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
+* (2023/12/16) 事象の確率計算・独立性・排反：[notebooks/MATH_jisyounokakuritukeisann_dokuritusei_haihann.ipynb](notebooks/MATH_jisyounokakuritukeisann_dokuritusei_haihann.ipynb)
 
-* (2023/12/17) 確率変数と確率分布，その期待値：[notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb](notebooks/kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb)
+* (2023/12/17) 確率変数と確率分布，その期待値：[notebooks/MATH_kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb](notebooks/MATH_kakurituhennsuu_kakuritubunnpu_sonokitaiti.ipynb)
 
-* (2023/12/18) 期待値の計算：[notebooks/kitaichino_keisann.ipynb](notebooks/kitaichino_keisann.ipynb)
+* (2023/12/18) 期待値の計算：[notebooks/MATH_kitaichino_keisann.ipynb](notebooks/MATH_kitaichino_keisann.ipynb)
 
 * (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
