@@ -53,6 +53,8 @@ poetry install
 
 16. (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
 
+17. (2023/12/20) 同時確率分布と共分散[notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb](notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb)
+
 ---
 
 ## 分野別のNotebook一覧
@@ -92,3 +94,6 @@ poetry install
 * (2023/12/18) 期待値の計算：[notebooks/MATH_kitaichino_keisann.ipynb](notebooks/MATH_kitaichino_keisann.ipynb)
 
 * (2023/12/19) 分散[notebooks/MATH_bunnsann.ipynb](notebooks/MATH_bunnsann.ipynb)
+
+* (2023/12/20) 同時確率分布と共分散[notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb](notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb)
+
