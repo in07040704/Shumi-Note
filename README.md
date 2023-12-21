@@ -55,6 +55,9 @@ poetry install
 
 17. (2023/12/20) 同時確率分布と共分散[notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb](notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb)
 
+18. (2023/12/21) 離散確率分布に関する計算[notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb](notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb)
+
+
 ---
 
 ## 分野別のNotebook一覧
@@ -97,3 +100,4 @@ poetry install
 
 * (2023/12/20) 同時確率分布と共分散[notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb](notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb)
 
+* (2023/12/21) 離散確率分布に関する計算[notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb](notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb)
