@@ -57,6 +57,9 @@ poetry install
 
 18. (2023/12/21) 離散確率分布に関する計算[notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb](notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb)
 
+19. (2023/12/22) ベルヌーイ分布[notebooks/MATH_bernoulli_bunnpu.ipynb](notebooks/MATH_bernoulli_bunnpu.ipynb)
+
+
 
 ---
 
@@ -101,3 +104,5 @@ poetry install
 * (2023/12/20) 同時確率分布と共分散[notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb](notebooks/MATH_doujikakuritubunnpu_kyoubunnsann.ipynb)
 
 * (2023/12/21) 離散確率分布に関する計算[notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb](notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb)
+
+* (2023/12/22) ベルヌーイ分布[notebooks/MATH_bernoulli_bunnpu.ipynb](notebooks/MATH_bernoulli_bunnpu.ipynb)
