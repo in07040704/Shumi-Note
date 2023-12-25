@@ -59,6 +59,7 @@ poetry install
 
 19. (2023/12/22) ベルヌーイ分布[notebooks/MATH_bernoulli_bunnpu.ipynb](notebooks/MATH_bernoulli_bunnpu.ipynb)
 
+20. (2023/12/25) 2項分布[notebooks/MATH_nikouteiri.ipynb](notebooks/MATH_nikouteiri.ipynb)
 
 
 ---
@@ -106,3 +107,5 @@ poetry install
 * (2023/12/21) 離散確率分布に関する計算[notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb](notebooks/MATH_risannkakuritubunnpunikannsuru_keisan.ipynb)
 
 * (2023/12/22) ベルヌーイ分布[notebooks/MATH_bernoulli_bunnpu.ipynb](notebooks/MATH_bernoulli_bunnpu.ipynb)
+
+* (2023/12/25) 2項分布[notebooks/MATH_nikouteiri.ipynb](notebooks/MATH_nikouteiri.ipynb)
